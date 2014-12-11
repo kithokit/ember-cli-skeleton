@@ -1,6 +1,10 @@
 # Ember-cli-skeleton
 
-This README outlines the details of collaborating on this Ember addon.
+An ember addon which add Skeleton css (http://www.getskeleton.com) to your project
+
+## Description
+It is simple addon that help you add skeleton css in your ember cli project
+Feel free to make PR or Star in github!
 
 ## Installation
 
