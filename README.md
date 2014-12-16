@@ -6,6 +6,8 @@ An ember addon which add Skeleton css (http://www.getskeleton.com) to your proje
 It is simple addon that help you add skeleton css in your ember cli project
 Feel free to make PR or Star in github!
 
+* Upgrade skeleton to latest package v2.0.2
+
 ## Installation
 
 * `git clone` this repository
